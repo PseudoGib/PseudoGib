@@ -7,7 +7,7 @@ Software Engineering (Wannabe)
 I am currently studying at Universiti Teknologi Malaysia
 
 * 🌍  I'm based in Johor Bahru right now
-* 🖥️  See my portfolio at [PseudoGib](http://pseudogib.github.io/)
+* 🖥️  See my portfolio at [pseudogib.github.io](http://pseudogib.github.io/)
 * ✉️  You can contact me at [thisisgibrandzikry@gmail.com](mailto:thisisgibrandzikry@gmail.com)
 * 🧠  I'm learning Software Engineering
 
